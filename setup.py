@@ -35,7 +35,7 @@ setup(
     name=NAME,
     version=VERSION,
     description="Example.com",
-    author="OpenAPI Generator community",
+    author="Inno",
     author_email="contact@example.com",
     url="https://ptyossa.pl",
     keywords=["Example.com", "api", "brand", "logo", "colors"],
