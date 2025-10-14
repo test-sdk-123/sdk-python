@@ -1,3 +1,13 @@
+---
+order: 0
+title: Example.com Python SDK
+languages:
+ - python
+install: 'pip install test123test234'
+version: 1.0.4
+github: 'https://'
+packageManagerUrl: 'https://ptyossa.pl'
+---
 # Example.com Python SDK
 
 ## Overview
