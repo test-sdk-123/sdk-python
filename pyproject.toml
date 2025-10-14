@@ -3,7 +3,7 @@ name = "test123test234"
 version = "1.0.0"
 description = "Example.com"
 authors = [
-  {name = "OpenAPI Generator Community",email = "contact@example.com"},
+  {name = "Inno",email = "contact@example.com"},
 ]
 license = "MIT"
 readme = "README.md"
