@@ -5,7 +5,7 @@ description = "Example.com"
 authors = [
   {name = "OpenAPI Generator Community",email = "contact@example.com"},
 ]
-license = "Apache 2.0"
+license = "MIT"
 readme = "README.md"
 keywords=["Example.com", "api", "brand", "logo", "colors"]
 requires-python = ">=3.9"
